@@ -1,0 +1,12 @@
+
+/* Percebe-se que o estilo está sendo 
+aplicado à nível de TAG, sem IDs ou Classe */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
